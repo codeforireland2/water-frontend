@@ -1,4 +1,14 @@
-```script
+Set up on Github? If not https://help.github.com/articles/set-up-git/
+
+Added to organisation codeforireland / codeforeurope? If not fork onto your own account, make changes and issue a pull request
+```
+git clone https://github.com/codeforireland2/water-frontend
+```
+or after forking to your own account [change youraccount to your username]
+``` 
+git clone https://github.com/youraccount/water-frontend
+```
+
 yarn start
 ```
     Starts the development server.
